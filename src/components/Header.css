@@ -1,0 +1,7 @@
+.show{
+    transform: translateY(0);
+    z-index: 100;
+}
+.hide{
+    transform: translateY(-200px);
+}
